@@ -17,7 +17,7 @@ Predictive Modeling: Implemented a Multiple Linear Regression model to quantify 
 
 Mathematical Foundation
 The model is based on the following regression equation:
-ln(1 + SalePrice) = b0 + b1*MortgageRate + b2*GrLivArea + b3*OverallQual + epsilon
+ln(1 + SalePrice) = b0 + b1 * MortgageRate + b2 * GrLivArea + b3 * OverallQual + epsilon
 
 Conclusions
 The analysis confirmed a measurable correlation between rising mortgage rates and a decrease in property sale prices, validating the hypothesis that macroeconomic constraints significantly impact the real estate sector.
