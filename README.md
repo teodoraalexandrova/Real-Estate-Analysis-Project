@@ -11,7 +11,7 @@ To comply with the project requirements, data was gathered from two independent 
 
 Key Features & Methodology
 Data Consolidation: Merging house sales with interest rate data based on the year and month of the transaction.
-Mathematical Transformation: Applied a natural log transformation ($\ln(1+x)$) to the target variable to normalize distribution and handle skewness.
+Mathematical Transformation: Applied a natural log transformation ln(1+x) to the target variable to normalize distribution and handle skewness.
 Exploratory Data Analysis (EDA): Visualized correlations and identified the top 10 factors influencing prices.
 Predictive Modeling: Implemented a Multiple Linear Regression model to quantify the impact of interest rates.
 
